@@ -1,0 +1,12 @@
+What is a singleton pattern and when do you use it? Please use an example.
+
+A singleton is a design pattern which that an object can only be instantiated once.
+This can be usefully in Database connection and logging.
+EXAMPLE LOGGER CLASS
+
+
+ What is a dependency injection and when do you use it? Please use an example.
+
+ Dependecy injection is a design pattern where the control of creating and managing dependencies is
+ transferred from the class itself to an external entity. This causes to have a clearer, more maintainable and testable
+ code;
